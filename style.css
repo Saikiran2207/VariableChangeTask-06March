@@ -1,0 +1,16 @@
+.decrease{
+    /*background-color: red;*/
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.increase{
+    /*background-color: green;*/
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+body{
+    background-color: gold;
+}
+
